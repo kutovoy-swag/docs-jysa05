@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-mi2wko.date-me.pro/sitemap.xml
